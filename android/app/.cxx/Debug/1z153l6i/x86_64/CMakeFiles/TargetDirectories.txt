@@ -1,0 +1,2 @@
+C:/Users/HP/Downloads/final/guardian/android/app/.cxx/Debug/1z153l6i/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/HP/Downloads/final/guardian/android/app/.cxx/Debug/1z153l6i/x86_64/CMakeFiles/rebuild_cache.dir

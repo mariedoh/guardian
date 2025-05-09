@@ -1,0 +1,2 @@
+C:/Users/HP/Downloads/final/guardian/android/app/.cxx/RelWithDebInfo/3g3t2v2n/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/HP/Downloads/final/guardian/android/app/.cxx/RelWithDebInfo/3g3t2v2n/arm64-v8a/CMakeFiles/rebuild_cache.dir
